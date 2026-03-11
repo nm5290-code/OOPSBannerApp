@@ -5,7 +5,7 @@
  * for better memory efficiency and cleaner code.
  *
  * @author Nimrat
- * @version 3.0
+ * @version 2.0
  */
 
 
