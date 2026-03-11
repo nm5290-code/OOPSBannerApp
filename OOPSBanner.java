@@ -1,19 +1,3 @@
-/**
- * OOPSBannerApp UC8 - OOPS Banner using HashMap for Character Patterns
- *
- * This program uses HashMap to store ASCII art patterns for characters
- * and renders the banner using utility static methods.
- * 
- * Key Concepts:
- * - HashMap for efficient key-value pair storage of character patterns
- * - StringBuilder for efficient string concatenation
- * - Static Methods for utility functions
- * - Nested Loops for multi-line banner output
- *
- * @author Nimrat
- * @version 8.0
- */
-
 import java.util.HashMap;
 import java.util.Map;
 
