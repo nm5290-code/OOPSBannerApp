@@ -1,8 +1,5 @@
 /**
- * OOPSBannerApp UC2 - OOPS Banner using String.join()
- *
- * This program prints OOPS banner using String.join()
- * for better memory efficiency and cleaner code.
+ * OOPSBannerApp UC2 - OOPS Banner using String.out.println();
  *
  * @author Nimrat
  * @version 2.0
