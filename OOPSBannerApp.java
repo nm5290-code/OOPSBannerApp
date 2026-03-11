@@ -1,13 +1,3 @@
-/**
- * OOPSBannerApp UC6 - Refactor Banner Logic into Functions
- *
- * This program prints OOPS banner using helper methods
- * for each character pattern (O, P, S) to improve
- * modularity, reusability, and maintainability.
- *
- * @author Nimrat
- * @version 6.0
- */
 public class OOPSBannerApp {
     public static void main(String[] args) {
         // Declare and initialize a String array using helper methods
