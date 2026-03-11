@@ -1,11 +1,3 @@
-/**
- * OOPSBannerApp UC2 - OOPS Banner using String.out.println();
- *
- * @author Nimrat
- * @version 2.0
- */
-
-
 public class OOPSBanner {
     public static void main(String[] args) {
         // Line 1
